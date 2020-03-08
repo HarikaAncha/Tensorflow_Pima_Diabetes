@@ -1,6 +1,6 @@
 ## Project: Tensorflow Classification
 The project is to investigate and analyze the Pima Indians Diabetes Database, producing
-a model that can be used to predict the ìclassî.
+a model that can be used to predict the ‚Äúclass‚Äù.
 
 
 ### Install
@@ -20,7 +20,7 @@ Complete code implemented for this project is present in a single file TensorFlo
 
 
 ### Project 
-Developed a Nueral Network model using Tensorflow that would predict if a given person has been tested positive or negative for Diabetes.
+Developed a neural network model using Tensorflow that would predict if a given person has been tested positive or negative for Diabetes.
 
 
 ### Data
